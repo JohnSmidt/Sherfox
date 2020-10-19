@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 3af7c97174195734d978adafd55b1eb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4319127163495357027
+    second: Expire_0
+  - first:
+      213: -5709810113184330400
+    second: Expire_1
+  - first:
+      213: 6385213753345496667
+    second: Expire_2
+  - first:
+      213: 1776681850511404955
+    second: Expire_3
+  - first:
+      213: 6340158105227503649
+    second: Expire_4
+  - first:
+      213: -6263880167163316574
+    second: Expire_5
+  - first:
+      213: 5381807987279566706
+    second: Expire_6
+  - first:
+      213: -991757210091030940
+    second: Expire_7
+  - first:
+      213: -2772329666470656636
+    second: Expire_8
+  - first:
+      213: -1062134965426558711
+    second: Expire_9
+  - first:
+      213: 7531468778191746174
+    second: Expire_10
+  - first:
+      213: 5623226669172171853
+    second: Expire_11
+  - first:
+      213: 4326301202819679250
+    second: Expire_12
+  - first:
+      213: 8189944917557245631
+    second: Expire_13
+  - first:
+      213: 5867999985497828243
+    second: Expire_14
+  - first:
+      213: 5330145786124999410
+    second: Expire_15
+  - first:
+      213: -6982562043342871325
+    second: Expire_16
+  - first:
+      213: -1483672396604031855
+    second: Expire_17
+  - first:
+      213: -3795991008811557052
+    second: Expire_18
+  - first:
+      213: -7895830812920186957
+    second: Expire_19
+  - first:
+      213: 8187962158893384654
+    second: Expire_20
+  - first:
+      213: 5021261568186087001
+    second: Expire_21
+  - first:
+      213: -1839615512600478058
+    second: Expire_22
+  - first:
+      213: 1507247153019321464
+    second: Expire_23
+  - first:
+      213: -4813137018603830496
+    second: Expire_24
+  - first:
+      213: 7938814046127639439
+    second: Expire_25
+  - first:
+      213: 7291622481227060122
+    second: Expire_26
+  - first:
+      213: -722614779612012848
+    second: Expire_27
+  - first:
+      213: -9014679570317584648
+    second: Expire_28
+  - first:
+      213: 3798462913450723064
+    second: Expire_29
+  - first:
+      213: -3106098360745389934
+    second: Expire_30
+  - first:
+      213: 1667614741546942495
+    second: Expire_31
+  - first:
+      213: -5484443049776572202
+    second: Expire_32
+  - first:
+      213: -2323276174829738003
+    second: Expire_33
+  - first:
+      213: 1761746465054298598
+    second: Expire_34
+  - first:
+      213: -3280146761886389923
+    second: Expire_35
+  - first:
+      213: -1661765432988569231
+    second: Expire_36
+  - first:
+      213: -6471527090163362995
+    second: Expire_37
+  - first:
+      213: -5711661863057281607
+    second: Expire_38
+  - first:
+      213: -5067649546056219477
+    second: Expire_39
+  - first:
+      213: -8287994874876956593
+    second: Expire_40
+  - first:
+      213: -8919465725430160114
+    second: Expire_41
+  - first:
+      213: 3276132450116839683
+    second: Expire_42
+  - first:
+      213: 1247849466802708079
+    second: Expire_43
+  - first:
+      213: -532329705804445186
+    second: Expire_44
+  - first:
+      213: 4350637985976753077
+    second: Expire_45
+  - first:
+      213: -4703802307617865802
+    second: Expire_46
+  - first:
+      213: 3386113620143276002
+    second: Expire_47
+  - first:
+      213: -2821854940938936403
+    second: Expire_48
+  - first:
+      213: 3350527379013950409
+    second: Expire_49
+  - first:
+      213: -1329076227202230957
+    second: Expire_50
+  - first:
+      213: 3475792358883286718
+    second: Expire_51
+  - first:
+      213: -8664938043771578111
+    second: Expire_52
+  - first:
+      213: -4423195291834863671
+    second: Expire_53
+  - first:
+      213: -500425149172195836
+    second: Expire_54
+  - first:
+      213: 2022043314198606431
+    second: Expire_55
+  - first:
+      213: -8798855807214946440
+    second: Expire_56
+  - first:
+      213: -941478085210734776
+    second: Expire_57
+  - first:
+      213: 6529545919912202106
+    second: Expire_58
+  - first:
+      213: -6413176499574654161
+    second: Expire_59
+  - first:
+      213: -6201833066043554033
+    second: Expire_60
+  - first:
+      213: -3261084292688225894
+    second: Expire_61
+  - first:
+      213: 2057073197364567666
+    second: Expire_62
+  - first:
+      213: 8678707816577621139
+    second: Expire_63
+  - first:
+      213: 8878575195620964505
+    second: Expire_64
+  - first:
+      213: 8523810754604393700
+    second: Expire_65
+  - first:
+      213: -1867679976362354192
+    second: Expire_66
+  - first:
+      213: -599199786642741022
+    second: Expire_67
+  - first:
+      213: 2234244752649415665
+    second: Expire_68
+  - first:
+      213: 7799189586452867766
+    second: Expire_69
+  - first:
+      213: -8194425374836430070
+    second: Expire_70
+  - first:
+      213: -1641666770660423597
+    second: Expire_71
+  - first:
+      213: 6603663533660921988
+    second: Expire_72
+  - first:
+      213: 6878645006274776793
+    second: Expire_73
+  - first:
+      213: 2700797328406385450
+    second: Expire_74
+  - first:
+      213: 4167256327406420425
+    second: Expire_75
+  - first:
+      213: 4258865108606998184
+    second: Expire_76
+  - first:
+      213: -6187481886569752811
+    second: Expire_77
+  - first:
+      213: -3578300251451484432
+    second: Expire_78
+  - first:
+      213: -5487484793741228071
+    second: Expire_79
+  - first:
+      213: -1082147780341585876
+    second: Expire_80
+  - first:
+      213: -8177063470550239884
+    second: Expire_81
+  - first:
+      213: -8742643200162833235
+    second: Expire_82
+  - first:
+      213: -8868796065435869140
+    second: Expire_83
+  - first:
+      213: -1470546670628900659
+    second: Expire_84
+  - first:
+      213: 2568168371768625346
+    second: Expire_85
+  - first:
+      213: 8338706760593308745
+    second: Expire_86
+  - first:
+      213: 6333250727488305825
+    second: Expire_87
+  - first:
+      213: 3412633319168069929
+    second: Expire_88
+  - first:
+      213: 9113115032300624519
+    second: Expire_89
+  - first:
+      213: 4000079275256234887
+    second: Expire_90
+  - first:
+      213: 3012330722008843529
+    second: Expire_91
+  - first:
+      213: 5376805935403737522
+    second: Expire_92
+  - first:
+      213: -7763775026520796255
+    second: Expire_0
+  - first:
+      213: 5636560057157001999
+    second: Expire_1
+  - first:
+      213: 6840839724820111868
+    second: Expire_2
+  - first:
+      213: 6322236793077653278
+    second: Expire_3
+  - first:
+      213: 5071077102719224130
+    second: Expire_4
+  - first:
+      213: 5636739826607818391
+    second: Expire_5
+  - first:
+      213: 2502451320236622416
+    second: Expire_6
+  - first:
+      213: 7690455279716715941
+    second: Expire_7
+  - first:
+      213: -3823158482677415918
+    second: Expire_8
+  - first:
+      213: -8614998430856783622
+    second: Expire_9
+  - first:
+      213: 4605732427717682533
+    second: Expire_10
+  - first:
+      213: 5691897145991195999
+    second: Expire_11
+  - first:
+      213: -766081909220966649
+    second: Expire_12
+  - first:
+      213: -5020909434226633814
+    second: Expire_13
+  - first:
+      213: 2282457507775267479
+    second: Expire_14
+  - first:
+      213: 1710614905936411093
+    second: Expire_15
+  - first:
+      213: 3256337249157785627
+    second: Expire_16
+  - first:
+      213: -7628610577893046404
+    second: Expire_17
+  - first:
+      213: -2855410110116318493
+    second: Expire_18
+  - first:
+      213: 731149739223390263
+    second: Expire_19
+  - first:
+      213: -744404050609559897
+    second: Expire_20
+  - first:
+      213: 1338157877214994313
+    second: Expire_21
+  - first:
+      213: -5524757402791630559
+    second: Expire_22
+  - first:
+      213: 4697900936602199204
+    second: Expire_23
+  - first:
+      213: -2404873405256113388
+    second: Expire_24
+  - first:
+      213: 7857553625007770076
+    second: Expire_25
+  - first:
+      213: 2921543783298066734
+    second: Expire_26
+  - first:
+      213: -1157958722274068261
+    second: Expire_27
+  - first:
+      213: -7214342065943224243
+    second: Expire_28
+  - first:
+      213: -2942670662537088693
+    second: Expire_29
+  - first:
+      213: 371267688951210728
+    second: Expire_30
+  - first:
+      213: 6057188470789063320
+    second: Expire_31
+  - first:
+      213: 3468103517618072084
+    second: Expire_32
+  - first:
+      213: -1483727178221170516
+    second: Expire_33
+  - first:
+      213: 39735240087663614
+    second: Expire_34
+  - first:
+      213: 6015249477850948417
+    second: Expire_35
+  - first:
+      213: -9114899183517409723
+    second: Expire_36
+  - first:
+      213: -8846107633717126629
+    second: Expire_37
+  - first:
+      213: -21824899044076705
+    second: Expire_38
+  - first:
+      213: 3174798894827878081
+    second: Expire_39
+  - first:
+      213: -8552252959468195517
+    second: Expire_40
+  - first:
+      213: -6005626174955105163
+    second: Expire_41
+  - first:
+      213: 528583367518571521
+    second: Expire_42
+  - first:
+      213: 6269396416510224258
+    second: Expire_43
+  - first:
+      213: 4797905293676756717
+    second: Expire_44
+  - first:
+      213: 1857342287949187074
+    second: Expire_45
+  - first:
+      213: 7129481839500292345
+    second: Expire_46
+  - first:
+      213: 7620870219079624037
+    second: Expire_47
+  - first:
+      213: 1036714018340253747
+    second: Expire_48
+  - first:
+      213: -5947694047463139109
+    second: Expire_49
+  - first:
+      213: 3249022693037203766
+    second: Expire_50
+  - first:
+      213: 385901431398270978
+    second: Expire_51
+  - first:
+      213: 4586003138852460077
+    second: Expire_52
+  - first:
+      213: 206567534149488673
+    second: Expire_53
+  - first:
+      213: 163242724840484877
+    second: Expire_54
+  - first:
+      213: 4459293817707184532
+    second: Expire_55
+  - first:
+      213: 2316305925798332060
+    second: Expire_56
+  - first:
+      213: -4048418250450285393
+    second: Expire_57
+  - first:
+      213: -7497403639361038030
+    second: Expire_58
+  - first:
+      213: 2745047002091321216
+    second: Expire_59
+  - first:
+      213: -6520018729692285745
+    second: Expire_60
+  - first:
+      213: -3115565869614611265
+    second: Expire_61
+  - first:
+      213: 3224282288859895699
+    second: Expire_62
+  - first:
+      213: -6527808292442553397
+    second: Expire_63
+  - first:
+      213: 6443904673998462956
+    second: Expire_64
+  - first:
+      213: 4647025536064708616
+    second: Expire_65
+  - first:
+      213: -8841606198500639024
+    second: Expire_66
+  - first:
+      213: -2744760706188073519
+    second: Expire_67
+  - first:
+      213: 721988534833508813
+    second: Expire_68
+  - first:
+      213: -5310207303416355922
+    second: Expire_69
+  - first:
+      213: -3380379281248282725
+    second: Expire_70
+  - first:
+      213: -791143166183628541
+    second: Expire_71
+  - first:
+      213: -4620205356404416386
+    second: Expire_72
+  - first:
+      213: 5535392768204838139
+    second: Expire_73
+  - first:
+      213: -2951805729809435779
+    second: Expire_74
+  - first:
+      213: -1857530373807777358
+    second: Expire_75
+  - first:
+      213: -1239740701561843794
+    second: Expire_76
+  - first:
+      213: 1265502324820516028
+    second: Expire_77
+  - first:
+      213: -5013007056936638270
+    second: Expire_78
+  - first:
+      213: 1403649559509358286
+    second: Expire_79
+  - first:
+      213: 1026283044598554415
+    second: Expire_80
+  - first:
+      213: -1683128324846647891
+    second: Expire_81
+  - first:
+      213: -4955810356419525230
+    second: Expire_82
+  - first:
+      213: 1619164398318070292
+    second: Expire_83
+  - first:
+      213: -9113161337704067164
+    second: Expire_84
+  - first:
+      213: -4502748178276892238
+    second: Expire_85
+  - first:
+      213: 1905157102043425322
+    second: Expire_86
+  - first:
+      213: -7687778869955943827
+    second: Expire_87
+  - first:
+      213: -6096913083942524124
+    second: Expire_88
+  - first:
+      213: 3827477568960478291
+    second: Expire_89
+  - first:
+      213: 2570313025855385994
+    second: Expire_90
+  - first:
+      213: 485662525865704302
+    second: Expire_91
+  - first:
+      213: -7882608447221632185
+    second: Expire_92
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Expire_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3dd246fb7814490800000000000000
+      internalID: -7763775026520796255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03aff91285193e40800000000000000
+      internalID: 5636560057157001999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a8434c7b8fee50800000000000000
+      internalID: 6840839724820111868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5c4dddd81db750800000000000000
+      internalID: 6322236793077653278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494238d1c5106640800000000000000
+      internalID: 5071077102719224130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968140f109b93e40800000000000000
+      internalID: 5636739826607818391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052496a973e7ab220800000000000000
+      internalID: 2502451320236622416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adca84c45cf9ba60800000000000000
+      internalID: 7690455279716715941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210cdffad9961fac0800000000000000
+      internalID: -3823158482677415918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8db344290617880800000000000000
+      internalID: -8614998430856783622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5652c94ad39daef30800000000000000
+      internalID: 4605732427717682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6ddc1c4eadfe40800000000000000
+      internalID: 5691897145991195999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff70cff845e55f0800000000000000
+      internalID: -766081909220966649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39383b875225ab0800000000000000
+      internalID: -5020909434226633814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924ed5a20becaf10800000000000000
+      internalID: 2282457507775267479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f3d791335db710800000000000000
+      internalID: 1710614905936411093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b182ceca975d03d20800000000000000
+      internalID: 3256337249157785627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c5e6f81bb12690800000000000000
+      internalID: -7628610577893046404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2357a22ab8f58d0800000000000000
+      internalID: -2855410110116318493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738970460d0952a00800000000000000
+      internalID: 731149739223390263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62e02c5785ba5f0800000000000000
+      internalID: -744404050609559897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f5accdf77129210800000000000000
+      internalID: 1338157877214994313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292560e96e1453b0800000000000000
+      internalID: -5524757402791630559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42624e20c423140800000000000000
+      internalID: 4697900936602199204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ece5216c20aed0800000000000000
+      internalID: -2404873405256113388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9cb2e0463ab0d60800000000000000
+      internalID: 7857553625007770076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296b3787986b8820800000000000000
+      internalID: 2921543783298066734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f94e5daa1eefe0800000000000000
+      internalID: -1157958722274068261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40eb4f3d1281eb90800000000000000
+      internalID: -7214342065943224243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4173849f988927d0800000000000000
+      internalID: -2942670662537088693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2648cfef1072500800000000000000
+      internalID: 371267688951210728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89249f262d47f0450800000000000000
+      internalID: 6057188470789063320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a68e346cd212030800000000000000
+      internalID: 3468103517618072084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d8861efdb86be0800000000000000
+      internalID: -1483727178221170516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37d768dfa2d8000800000000000000
+      internalID: 39735240087663614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e8aaa7857a7350800000000000000
+      internalID: 6015249477850948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e52f24c7f518180800000000000000
+      internalID: -9114899183517409723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5b6fc9ff4c3580800000000000000
+      internalID: -8846107633717126629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f531835be5672bff0800000000000000
+      internalID: -21824899044076705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b48726c62f0c20800000000000000
+      internalID: 3174798894827878081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417d91ce3b405980800000000000000
+      internalID: -8552252959468195517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574530420dab7aca0800000000000000
+      internalID: -6005626174955105163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ccf1fa5c7e55700800000000000000
+      internalID: 528583367518571521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e23af2de510750800000000000000
+      internalID: 6269396416510224258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb197b175959240800000000000000
+      internalID: 4797905293676756717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c58368fa96c910800000000000000
+      internalID: 1857342287949187074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0730c95f101f260800000000000000
+      internalID: 7129481839500292345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565289f4615c2c960800000000000000
+      internalID: 7620870219079624037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b6dc28e5236e00800000000000000
+      internalID: 1036714018340253747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8114ca6cb857da0800000000000000
+      internalID: -5947694047463139109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_50
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316aaddce8d61d20800000000000000
+      internalID: 3249022693037203766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080fc8ae4ffa5500800000000000000
+      internalID: 385901431398270978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_52
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26902e9e81c4af30800000000000000
+      internalID: 4586003138852460077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120db1fe310edd200800000000000000
+      internalID: 206567534149488673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_54
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b842b464f34200800000000000000
+      internalID: 163242724840484877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914881d91892ed30800000000000000
+      internalID: 4459293817707184532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96875a97fb252020800000000000000
+      internalID: 2316305925798332060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_57
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc3b7fc0121d7c0800000000000000
+      internalID: -4048418250450285393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_58
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2391a2aec1fd3f790800000000000000
+      internalID: -7497403639361038030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_59
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087776b54bd581620800000000000000
+      internalID: 2745047002091321216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_60
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 4
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc43cc7828d3485a0800000000000000
+      internalID: -6520018729692285745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_61
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44a4b395943c4d0800000000000000
+      internalID: -3115565869614611265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d313a8a3febc20800000000000000
+      internalID: 3224282288859895699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_63
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3cc1f91f09865a0800000000000000
+      internalID: -6527808292442553397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_64
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef5824e8295d6950800000000000000
+      internalID: 6443904673998462956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_65
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006e43aa1d8d7040800000000000000
+      internalID: 4647025536064708616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_66
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3a7ed10e4c4580800000000000000
+      internalID: -8841606198500639024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_67
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a53a1ea6a8e9d0800000000000000
+      internalID: -2744760706188073519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f7a64fb4050a00800000000000000
+      internalID: 721988534833508813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_69
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ee2c979a5e46b0800000000000000
+      internalID: -5310207303416355922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971b1724fa7611d0800000000000000
+      internalID: -3380379281248282725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_71
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a5256b7b4505f0800000000000000
+      internalID: -791143166183628541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_72
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70682e05bbb1efb0800000000000000
+      internalID: -4620205356404416386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_73
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49d19156aa1dc40800000000000000
+      internalID: 5535392768204838139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_74
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73febcf3541907d0800000000000000
+      internalID: -2951805729809435779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_75
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b950b577f9b836e0800000000000000
+      internalID: -1857530373807777358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_76
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf00dd766e8bcee0800000000000000
+      internalID: -1239740701561843794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_77
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc9b55d8a7ff8110800000000000000
+      internalID: 1265502324820516028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_78
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8e3ca44a83e6ab0800000000000000
+      internalID: -5013007056936638270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_79
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec650b766d3ca7310800000000000000
+      internalID: 1403649559509358286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_80
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f9d48ddf61e3e00800000000000000
+      internalID: 1026283044598554415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_81
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da50e16c4b354a8e0800000000000000
+      internalID: -1683128324846647891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_82
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2958963ecbc693bb0800000000000000
+      internalID: -4955810356419525230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_83
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a25ba017d687610800000000000000
+      internalID: 1619164398318070292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_84
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af43550c0c878180800000000000000
+      internalID: -9113161337704067164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_85
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1c4c073660381c0800000000000000
+      internalID: -4502748178276892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_86
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6c945a4a707a10800000000000000
+      internalID: 1905157102043425322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_87
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a58079d58f4590800000000000000
+      internalID: -7687778869955943827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_88
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bac2d5ad9636ba0800000000000000
+      internalID: -6096913083942524124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_89
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c3aa3f19eed1530800000000000000
+      internalID: 3827477568960478291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_90
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817ba334169ba320800000000000000
+      internalID: 2570313025855385994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_91
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb1fe7e7b6db600800000000000000
+      internalID: 485662525865704302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expire_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437cdf81695b9290800000000000000
+      internalID: -7882608447221632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
